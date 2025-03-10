@@ -1,9 +1,8 @@
 # Xin chào! 👋 Tôi là Phạm Ngọc Hiệp
 
 ## 🛠 Kỹ năng của tôi:
-- 💻 Lập trình: C++, Python, JavaScript
-- 🌐 Web: HTML, CSS, React
-- 🛠 Công cụ: Git, VS Code, Docker
+- 💻 Lập trình: C++
+- 🛠 Công cụ: Git, VS Code
 
 ## 📫 Liên hệ với tôi:
 - 📧 Email: phamhiep23032006@gmail.com
